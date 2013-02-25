@@ -1,2 +1,3 @@
+
  - maps.html non funziona in HTML 5
  - modificato leaflet.css per visualizzare i marker anche sulle mappe google
